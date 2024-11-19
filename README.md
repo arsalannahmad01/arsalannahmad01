@@ -6,7 +6,6 @@
 [![YouTube](https://img.shields.io/badge/-YouTube-white?style=flat&logo=Youtube&logoColor=red)](https://www.youtube.com/@arsalan2612)
 
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:arsalannahmad01@gmail.com)
-
 [![Github](https://img.shields.io/github/followers/arsalannahmad01?label=Follow&style=social)](https://github.com/arsalannahmad01)
 
 I'm a passionate Backend Developer with a focus on building scalable and efficient systems. Currently pursuing a Bachelor’s in Computer Applications, I have experience in Python, JavaScript, and cloud technologies like AWS.
